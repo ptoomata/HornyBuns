@@ -6,7 +6,7 @@ const SearchBox = ({ onSearchBox }) => {
         <div>
             <input 
                 onChange={onSearchBox} 
-                className='tc bg-light-blue w-25 pa3 ma3' 
+                className='tc bg-light-blue w-25 pa2 ma2' 
                 type="text" 
                 placeholder="Hey puti who are you looking for?">
             </input>
