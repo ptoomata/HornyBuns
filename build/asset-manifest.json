@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/HornyBuns/static/css/main.3d683877.chunk.css",
-    "main.js": "/HornyBuns/static/js/main.ca8f17ed.chunk.js",
-    "main.js.map": "/HornyBuns/static/js/main.ca8f17ed.chunk.js.map",
+    "main.css": "/HornyBuns/static/css/main.630a9e8f.chunk.css",
+    "main.js": "/HornyBuns/static/js/main.57c8890a.chunk.js",
+    "main.js.map": "/HornyBuns/static/js/main.57c8890a.chunk.js.map",
     "runtime-main.js": "/HornyBuns/static/js/runtime-main.e33324ac.js",
     "runtime-main.js.map": "/HornyBuns/static/js/runtime-main.e33324ac.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/HornyBuns/static/css/2.3b6f1bda.chunk.css",
     "static/js/2.8eb82d35.chunk.js": "/HornyBuns/static/js/2.8eb82d35.chunk.js",
     "static/js/2.8eb82d35.chunk.js.map": "/HornyBuns/static/js/2.8eb82d35.chunk.js.map",
     "index.html": "/HornyBuns/index.html",
-    "precache-manifest.ecbaa97b346092ce3f4dfbc37e5f59d8.js": "/HornyBuns/precache-manifest.ecbaa97b346092ce3f4dfbc37e5f59d8.js",
+    "precache-manifest.eb1ae12cb8d2254567a61b7af135b3b3.js": "/HornyBuns/precache-manifest.eb1ae12cb8d2254567a61b7af135b3b3.js",
     "service-worker.js": "/HornyBuns/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/HornyBuns/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.3d683877.chunk.css.map": "/HornyBuns/static/css/main.3d683877.chunk.css.map",
+    "static/css/main.630a9e8f.chunk.css.map": "/HornyBuns/static/css/main.630a9e8f.chunk.css.map",
     "static/js/2.8eb82d35.chunk.js.LICENSE.txt": "/HornyBuns/static/js/2.8eb82d35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e33324ac.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.8eb82d35.chunk.js",
-    "static/css/main.3d683877.chunk.css",
-    "static/js/main.ca8f17ed.chunk.js"
+    "static/css/main.630a9e8f.chunk.css",
+    "static/js/main.57c8890a.chunk.js"
   ]
 }

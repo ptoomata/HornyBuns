@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HornyBuns/precache-manifest.ecbaa97b346092ce3f4dfbc37e5f59d8.js"
+  "/HornyBuns/precache-manifest.eb1ae12cb8d2254567a61b7af135b3b3.js"
 );
 
 self.addEventListener('message', (event) => {
